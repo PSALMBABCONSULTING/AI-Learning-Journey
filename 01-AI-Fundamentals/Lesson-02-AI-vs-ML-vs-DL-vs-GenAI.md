@@ -113,6 +113,21 @@ But in healthcare, it must be used carefully because of privacy, accuracy, bias,
 | Generative AI    | Creates new content               | Drafting reports, summaries, SQL, or documentation |
 ```
 
+## Check Your Understanding
+
+**Answer this in your own words:**
+
+What is the difference between machine learning and generative AI?
+In my own words, ML needs to learn from existing data while Gen AI create new contents.
+
+**Likely Answers:**
+1. Machine learning learns patterns from existing data and uses those patterns to make predictions or decisions. Generative AI also learns from data, but its main purpose is to create new content such as text, summaries, reports, code, images, or explanations.
+2. Machine learning learns from existing data to make predictions, while generative AI creates new content based on what it has learned.
+
+**In Conclusion:**
+- Machine Learning = predicts or classifies
+- Generative AI = creates new content
+
 ## My Career Application
 
 My goal is not only to understand AI technically, but to apply it responsibly in healthcare analytics leadership. I want to combine Power BI, SQL, Python, machine learning, healthcare data, governance, and leadership to improve decision-making and health system performance.
