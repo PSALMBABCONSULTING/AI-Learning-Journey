@@ -23,7 +23,7 @@ Python will help you move from reporting and dashboarding into automation, predi
 
 In healthcare analytics, Python can help you:
 
-- Clean messy healthcare data (Excel, CSV, or SQL data etc)
+- Clean messy healthcare data (Excel, CSV, or SQL/Snowflake/Oracle data etc)
 - Combine Excel or CSV files
 - Connect to APIs
 - Automate repeated reporting tasks
