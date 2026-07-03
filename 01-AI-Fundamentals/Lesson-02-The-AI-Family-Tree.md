@@ -15,7 +15,7 @@ Artificial Intelligence
 ```
 
 
-**1. Artificial Intelligence**
+## 1. Artificial Intelligence
 
 **Artificial Intelligence** is the broad field of making computers perform tasks that usually require human intelligence.
 
@@ -32,7 +32,7 @@ Artificial Intelligence
 
 An AI system may help identify patients at higher risk of falls, summarize patient feedback, or detect unusual trends in infection rates.
 
-**2. Machine Learning**
+## 2. Machine Learning
 
 Machine Learning is a type of AI where the computer learns from data instead of being given fixed rules.
 
@@ -56,7 +56,7 @@ A model could learn from previous falls data and discover that fall risk is rela
 
 Then it can estimate future risk.
 
-**3. Deep Learning**
+## 3. Deep Learning
 
 Deep Learning is a more advanced type of machine learning that uses layered structures called neural networks.
 
@@ -72,7 +72,7 @@ It is especially useful for complex data such as:
 
 Deep learning can be used to analyze X-rays, CT scans, pathology images, or large volumes of clinical text.
 
-**4. Generative AI**
+## 4. Generative AI
 
 Generative AI creates new content.
 
