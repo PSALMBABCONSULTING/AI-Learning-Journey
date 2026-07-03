@@ -118,7 +118,6 @@ But in healthcare, it must be used carefully because of privacy, accuracy, bias,
 **Answer this in your own words:**
 
 What is the difference between machine learning and generative AI?
-In my own words, ML needs to learn from existing data while Gen AI create new contents.
 
 **Likely Answers:**
 1. Machine learning learns patterns from existing data and uses those patterns to make predictions or decisions. Generative AI also learns from data, but its main purpose is to create new content such as text, summaries, reports, code, images, or explanations.
