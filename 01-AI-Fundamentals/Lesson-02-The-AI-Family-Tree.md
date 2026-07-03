@@ -1,6 +1,6 @@
-**Lesson 02: AI vs Machine Learning vs Deep Learning vs Generative AI.**
+## Lesson 02: AI vs Machine Learning vs Deep Learning vs Generative AI.
 
-**Lesson 02: The AI Family Tree**
+## Lesson 02: The AI Family Tree
 
 Think of AI like a big umbrella.
 
