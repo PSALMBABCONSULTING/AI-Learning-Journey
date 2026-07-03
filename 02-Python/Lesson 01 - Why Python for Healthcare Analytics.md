@@ -38,3 +38,6 @@ In Power BI, you usually build reports after the data is already prepared.
 With Python, you can help prepare and automate the data before it reaches Power BI.
 
 For example:
+```text
+Raw Data → Python Cleaning Script → SQL/CSV Output → Power BI Dashboard
+```
