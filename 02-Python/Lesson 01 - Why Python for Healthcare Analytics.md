@@ -31,10 +31,10 @@ In healthcare analytics, Python can help you:
 - Detect unusual patterns
 Create reproducible analytics workflows
 Support AI projects safely and responsibly
-Simple Example
 
+
+**Simple Example**
 In Power BI, you usually build reports after the data is already prepared.
-
 With Python, you can help prepare and automate the data before it reaches Power BI.
 
 For example:
