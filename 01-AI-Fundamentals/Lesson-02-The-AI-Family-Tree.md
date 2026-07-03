@@ -102,13 +102,17 @@ Generative AI can help:
 
 But in healthcare, it must be used carefully because of privacy, accuracy, bias, and governance.
 
-**Simple Comparison Table**
+**Summary: A Simple Comparison Table**
 
-```
+```text
 | Concept          | Meaning                           | Healthcare Analytics Example                       |
 | ---------------- | --------------------------------- | -------------------------------------------------- |
 | AI               | Broad idea of intelligent systems | A system that supports decision-making             |
 | Machine Learning | Learns patterns from data         | Predicting fall risk or readmission risk           |
 | Deep Learning    | Advanced ML using neural networks | Reading medical images or clinical notes           |
 | Generative AI    | Creates new content               | Drafting reports, summaries, SQL, or documentation |
+```
 
+## My Career Application
+
+My goal is not only to understand AI technically, but to apply it responsibly in healthcare analytics leadership. I want to combine Power BI, SQL, Python, machine learning, healthcare data, governance, and leadership to improve decision-making and health system performance.
