@@ -4,6 +4,7 @@
 
 Think of AI like a big umbrella.
 
+```text
 Artificial Intelligence
 │
 ├── Machine Learning
@@ -11,6 +12,7 @@ Artificial Intelligence
 │   └── Deep Learning
 │
 └── Generative AI
+```
 
 
 **1. Artificial Intelligence**
