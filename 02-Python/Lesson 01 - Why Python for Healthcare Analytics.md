@@ -39,7 +39,6 @@ In healthcare analytics, Python can help you:
 In Power BI/Tableau, you usually build reports after the data is already prepared.
 With Python, you can help prepare and automate the data before it reaches Power BI.
 
-For example:
 ```text
 Raw Data → Python Cleaning Script → SQL/Snowflake/Oracle/CSV Output → Power BI/Tableau Dashboard
 ```
@@ -52,4 +51,4 @@ If monthly falls data is stored in different Excel files, Python can combine the
 
 Python will help me move beyond dashboard development into automation, predictive analytics, machine learning, and AI-enabled healthcare analytics leadership.
 
-My goal is to use Python together with SQL, Power BI/Tableau, healthcare data, governance, and leadership skills to improve decision-making in healthcare.
+My goal is to use Python together with SQL/Oracle/Snowflake, Power BI/Tableau, healthcare data, governance, and leadership skills to improve decision-making in healthcare.
