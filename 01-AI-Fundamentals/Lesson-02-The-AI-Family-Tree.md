@@ -104,7 +104,7 @@ But in healthcare, it must be used carefully because of privacy, accuracy, bias,
 
 **Simple Comparison Table**
 
-```text
+```
 | Concept          | Meaning                           | Healthcare Analytics Example                       |
 | ---------------- | --------------------------------- | -------------------------------------------------- |
 | AI               | Broad idea of intelligent systems | A system that supports decision-making             |
