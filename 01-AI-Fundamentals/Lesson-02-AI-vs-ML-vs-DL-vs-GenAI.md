@@ -102,7 +102,7 @@ Generative AI can help:
 
 But in healthcare, it must be used carefully because of privacy, accuracy, bias, and governance.
 
-**Summary: A Simple Comparison Table**
+## Summary: A Simple Comparison Table
 
 ```text
 | Concept          | Meaning                           | Healthcare Analytics Example                       |
