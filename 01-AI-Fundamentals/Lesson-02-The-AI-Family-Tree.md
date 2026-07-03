@@ -45,7 +45,7 @@ Machine learning studies historical data and learns patterns automatically.
 **Healthcare example**
 
 A model could learn from previous falls data and discover that fall risk is related to:
-
+```text
 Time of day
 Unit/location
 Previous incidents
@@ -53,6 +53,14 @@ Mobility status
 Medication patterns
 Staffing level
 Cognitive status
+```
+- Time of day
+- Unit/location
+- Previous incidents
+- Mobility status
+- Medication patterns
+- Staffing level
+- Cognitive status
 
 Then it can estimate future risk.
 
