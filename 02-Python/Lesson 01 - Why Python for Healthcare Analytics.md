@@ -7,6 +7,8 @@ Python is one of the most important tools for modern analytics, machine learning
 You already have strong experience with (This is for me, if you don't you can try to acquire these skills as you proceed in your AI learning but should not be an hindrance):
 
 - SQL
+- Snowflake
+- Oracle
 - Power BI
 - Tableau
 - healthcare reporting
@@ -34,12 +36,12 @@ In healthcare analytics, Python can help you:
 
 **Simple Example**
 
-In Power BI, you usually build reports after the data is already prepared.
+In Power BI/Tableau, you usually build reports after the data is already prepared.
 With Python, you can help prepare and automate the data before it reaches Power BI.
 
 For example:
 ```text
-Raw Data → Python Cleaning Script → SQL/CSV Output → Power BI Dashboard
+Raw Data → Python Cleaning Script → SQL/Snowflake/Oracle/CSV Output → Power BI/Tableau Dashboard
 ```
 
 ## Example
@@ -50,4 +52,4 @@ If monthly falls data is stored in different Excel files, Python can combine the
 
 Python will help me move beyond dashboard development into automation, predictive analytics, machine learning, and AI-enabled healthcare analytics leadership.
 
-My goal is to use Python together with SQL, Power BI, healthcare data, governance, and leadership skills to improve decision-making in healthcare.
+My goal is to use Python together with SQL, Power BI/Tableau, healthcare data, governance, and leadership skills to improve decision-making in healthcare.
