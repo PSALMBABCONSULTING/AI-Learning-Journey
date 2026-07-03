@@ -67,3 +67,37 @@ Speech
 Large text
 Medical scans
 Complex clinical notes
+
+**Healthcare example**
+
+Deep learning can be used to analyze X-rays, CT scans, pathology images, or large volumes of clinical text.
+
+**4. Generative AI**
+
+Generative AI creates new content.
+
+It can generate:
+
+Text
+Code
+Reports
+Summaries
+Images
+Email drafts
+SQL queries
+Documentation
+
+ChatGPT is a generative AI tool.
+
+**Healthcare analytics example**
+
+Generative AI can help:
+
+Draft dashboard documentation
+Explain KPI changes
+Summarize patient experience comments
+Generate SQL or DAX ideas
+Create plain-language explanations for leaders
+Help analysts troubleshoot code
+
+But in healthcare, it must be used carefully because of privacy, accuracy, bias, and governance.
