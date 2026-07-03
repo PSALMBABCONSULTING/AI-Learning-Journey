@@ -114,6 +114,17 @@ print(fall_incidents)
 print(compliance_rate)
 ```
 
+## Full Practice Code
+
+The full Python practice code for this lesson is available in the practice folder:
+
+[View Lesson 02 Practice Code](practice/lesson_02_variables.py)
+
+This file contains the complete Python script for variables, data types, comments, and print statements.
+
+
+
+
 ## My Career Application
 
 Understanding variables and data types is important because they are the foundation for data cleaning, automation, analysis, machine learning, and AI workflows in healthcare analytics.
