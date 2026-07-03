@@ -12,17 +12,6 @@ Print statements
 ```
 These are the foundation for data cleaning, automation, healthcare reporting, machine learning, and AI work.
 
-## 1. What is a Variable?
-
-A variable is a name used to store a value.
-
-**For example:**
-```python
-patient_group = "Older Adults"
-total_patients = 150
-fall_incidents = 12
-```
-
 # Lesson 02: Variables, Data Types, and Comments
 
 ## What is a Variable?
