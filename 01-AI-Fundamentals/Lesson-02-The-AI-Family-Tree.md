@@ -21,12 +21,12 @@ Artificial Intelligence
 
 **Examples:**
 
-Understanding language
-Making predictions
-Detecting patterns
-Recommending actions
-Summarizing information
-Generating reports or text
+- Understanding language
+- Making predictions
+- Detecting patterns
+- Recommending actions
+- Summarizing information
+- Generating reports or text
 
 **Healthcare example**
 
@@ -45,15 +45,7 @@ Machine learning studies historical data and learns patterns automatically.
 **Healthcare example**
 
 A model could learn from previous falls data and discover that fall risk is related to:
-```text
-Time of day
-Unit/location
-Previous incidents
-Mobility status
-Medication patterns
-Staffing level
-Cognitive status
-```
+
 - Time of day
 - Unit/location
 - Previous incidents
@@ -70,11 +62,11 @@ Deep Learning is a more advanced type of machine learning that uses layered stru
 
 It is especially useful for complex data such as:
 
-Images
-Speech
-Large text
-Medical scans
-Complex clinical notes
+- Images
+- Speech
+- Large text
+- Medical scans
+- Complex clinical notes
 
 **Healthcare example**
 
@@ -86,14 +78,14 @@ Generative AI creates new content.
 
 It can generate:
 
-Text
-Code
-Reports
-Summaries
-Images
-Email drafts
-SQL queries
-Documentation
+- Text
+- Code
+- Reports
+- Summaries
+- Images
+- Email drafts
+- SQL queries
+- Documentation
 
 ChatGPT is a generative AI tool.
 
@@ -101,11 +93,11 @@ ChatGPT is a generative AI tool.
 
 Generative AI can help:
 
-Draft dashboard documentation
-Explain KPI changes
-Summarize patient experience comments
-Generate SQL or DAX ideas
-Create plain-language explanations for leaders
-Help analysts troubleshoot code
+- Draft dashboard documentation
+- Explain KPI changes
+- Summarize patient experience comments
+- Generate SQL or DAX ideas
+- Create plain-language explanations for leaders
+- Help analysts troubleshoot code
 
 But in healthcare, it must be used carefully because of privacy, accuracy, bias, and governance.
