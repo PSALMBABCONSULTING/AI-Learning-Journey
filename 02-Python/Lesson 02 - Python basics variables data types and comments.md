@@ -29,7 +29,6 @@ fall_incidents = 12
 Variables help store information that can be reused in a program.
 
 
-```markdown
 ## Common Python Data Types
 
 | Data Type | Meaning | Example |
@@ -39,7 +38,6 @@ Variables help store information that can be reused in a program.
 | Float | Decimal number | `94.5` |
 | Boolean | True or False | `True` |
 | List | Collection of values | `["Falls", "Readmissions", "Infections"]` |
-
 
 ## String
 
