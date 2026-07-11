@@ -1,6 +1,6 @@
 ## Lesson 02: Python Basics — Variables, Data Types, and Comments
 
-**What You Are Learning Today?**
+## What You Are Learning Today
 
 Today, you are learning four basic Python concepts:
 
@@ -11,8 +11,6 @@ Comments
 Print statements
 ```
 These are the foundation for data cleaning, automation, healthcare reporting, machine learning, and AI work.
-
-# Lesson 02: Variables, Data Types, and Comments
 
 ## What is a Variable?
 
@@ -121,9 +119,7 @@ The full Python practice code for this lesson is available in the practice folde
 
 [View Lesson 02 Practice Code](practice/lesson_02_variables.py)
 
-This file contains the complete Python script for variables, data types, comments, and print statements.
-
-
+This file contains the complete Python script for variables, data types, comments, and print statements. The practice file includes the main examples from this lesson plus additional healthcare analytics variables for extra practice.
 
 
 ## My Career Application
