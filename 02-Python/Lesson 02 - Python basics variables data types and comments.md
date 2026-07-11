@@ -16,7 +16,7 @@ These are the foundation for data cleaning, automation, healthcare reporting, ma
 
 ## What is a Variable?
 
-A variable is a name used to store a value in Python.
+A variable in Python is a name used to store a value, such as text, a number, a decimal, a true/false value, or a list. Variables are useful in healthcare analytics because they make it easier to store, reference, reuse, and analyze healthcare data such as patient counts, fall incidents, compliance rates, readmission counts, and quality indicators.
 
 For example:
 
