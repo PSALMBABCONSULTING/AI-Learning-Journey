@@ -28,16 +28,19 @@ fall_incidents = 12
 
 Variables help store information that can be reused in a program.
 
+
+```markdown
 ## Common Python Data Types
-```text
-| Data Type | Meaning              | Example                                   |
-| --------- | -------------------- | ----------------------------------------- |
-| String    | Text                 | `"Fall Risk Dashboard"`                   |
-| Integer   | Whole number         | `150`                                     |
-| Float     | Decimal number       | `94.5`                                    |
-| Boolean   | True or False        | `True`                                    |
-| List      | Collection of values | `["Falls", "Readmissions", "Infections"]` |
-```
+
+| Data Type | Meaning | Example |
+|---|---|---|
+| String | Text | `"Fall Risk Dashboard"` |
+| Integer | Whole number | `150` |
+| Float | Decimal number | `94.5` |
+| Boolean | True or False | `True` |
+| List | Collection of values | `["Falls", "Readmissions", "Infections"]` |
+
+
 ## String
 
 A string is text. Strings are written inside quotation marks.
