@@ -13,10 +13,13 @@ readmission_count = 8
 # Float variables
 compliance_rate = 94.5
 average_age = 78.6
+bed_occupancy_rate = 91.3
+patient_satisfaction_score = 87.2
 
 # Boolean variables
 training_completed = True
 high_risk_patient = False
+monthly_incident_reviews_completed = True
 
 # List variable
 quality_indicators = ["Falls", "Readmissions", "Infections", "Medication Errors"]
@@ -30,6 +33,9 @@ print("Fall Incidents:", fall_incidents)
 print("Readmission Count:", readmission_count)
 print("Compliance Rate:", compliance_rate)
 print("Average Age:", average_age)
+print("Bed Occupancy Rate:", bed_occupancy_rate)
+print("Patient Satisfaction Score:", patient_satisfaction_score)
 print("Training Completed:", training_completed)
 print("High Risk Patient:", high_risk_patient)
+print("Monthly Incident Reviews Completed:", monthly_incident_reviews_completed)
 print("Quality Indicators:", quality_indicators)
